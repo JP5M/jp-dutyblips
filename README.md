@@ -1,6 +1,7 @@
 # JP Duty Blips
 
-A FiveM script that provides on/off duty blips for players on specific jobs to allow for better visibility and coordination via the Map.
+> **Author:** JP5M  
+> A FiveM script that provides on/off duty blips for players on specific jobs to allow for better visibility and coordination via the Map. Built with [ox_lib](https://overextended.dev/ox_lib/).
 
 ## Features
 - Toggle on/off duty blips for players
