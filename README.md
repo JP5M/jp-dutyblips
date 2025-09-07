@@ -25,9 +25,9 @@ A FiveM script that provides on/off duty blips for players on specific jobs to a
 - When players toggle their duty status, their blip will change accordingly.
 - All configuration options can be found and adjusted in `config.lua`.
 - The script supports the following frameworks:
-   - **QBX** (`qbx_core`): Uses native duty count export.
-   - **QBCore** (`qb-core`): Counts on-duty players by job.
-   - **ESX** (`es_extended`): Counts on-duty players by job.
+   - **QBX** (`qbx_core`)
+   - **QBCore** (`qb-core`)
+   - **ESX** (`es_extended`)
    - Set the framework in `config.lua` with `Config.framework = 'qbx'`, `'qbcore'`, or `'esx'`.
 
 ## License
