@@ -1,10 +1,11 @@
 Config = {
+    framework = 'qbx', -- qbx, qbcore or esx
     refreshRate = 10000, -- in ms (10000 = 10 seconds)
 }
 
 Config.Blips = {
     {
-        id = "mechanic", -- New unique identifier by which we will handle the blip creation
+        id = "mechanic", -- Unique identifier
         label = "Mechanics", -- Blip name on map
         job = "mechanic", -- Job associated with the blip
         coords = vector3(-327.6184, -135.9356, 39.0097),
